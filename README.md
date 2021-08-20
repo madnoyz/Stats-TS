@@ -1,1 +1,1 @@
-Learning composition in typescriptgit
+Learning composition in Typescript
